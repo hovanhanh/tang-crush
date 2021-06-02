@@ -1,15 +1,15 @@
 # Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
-
+## _Một nhỏ tình cảm với crush_
+Trong khi đó, bạn sẽ không gặp phải khó khăn gì.
 Liên lạc: 
 [![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
-
-Mở file config.js sửa nội dung theo mẫu
+[ ! [Tiktok] (https://i.imgur.com/Nbfl1E7t.jpg) ] (https://www.tiktok.com/@manindev)
+Trong khi đó, bạn sẽ không gặp phải khó khăn gì.
+Open file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
+    introTitle: 'EM à!',
+    introDesc: Thường lệ vốn trái đất
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
